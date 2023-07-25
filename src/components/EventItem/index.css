@@ -1,0 +1,20 @@
+.image {
+  height: 25vh;
+}
+
+.head {
+  font-size: 20px;
+  color: #ffffff;
+}
+.para {
+  font-size: 15px;
+  color: #ffffff;
+}
+.back {
+  padding: 10px;
+  background-color: transparent;
+  border-width: 0;
+}
+.list {
+  list-style-type: none;
+}

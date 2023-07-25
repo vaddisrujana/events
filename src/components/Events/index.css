@@ -1,0 +1,23 @@
+.background {
+  display: flex;
+}
+.background1 {
+  background-color: #64748b;
+  width: 50vw;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  color: #ffffff;
+  margin-left: 50px;
+}
+.event {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: bold;
+}
+.background2 {
+  padding: 20px;
+}
